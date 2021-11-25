@@ -1,0 +1,383 @@
+|control_unit
+opcode[0] => opcode[0].IN5
+opcode[1] => opcode[1].IN4
+opcode[2] => opcode[2].IN4
+opcode[3] => opcode[3].IN3
+opcode[4] => opcode[4].IN1
+opcode[5] => opcode[5].IN3
+RegWrite << my_or3:determine_RegWrite.z
+alu_b_sel << my_or3:determine_alu_b_sel.z
+data_in_sel << lw.DB_MAX_OUTPUT_PORT_TYPE
+alu_op[0] << R_type.DB_MAX_OUTPUT_PORT_TYPE
+alu_op[1] << or_gate:or_gate_2.z
+alu_op[2] << my_or3:determine_branch_en.z
+branch_en << my_or3:determine_branch_en.z
+MemWrite << sw.DB_MAX_OUTPUT_PORT_TYPE
+RegDst << R_type.DB_MAX_OUTPUT_PORT_TYPE
+ExtOp << <VCC>
+
+
+|control_unit|not_gate_n:FLIP_OPCODE
+x[0] => z[0].DATAIN
+x[1] => z[1].DATAIN
+x[2] => z[2].DATAIN
+x[3] => z[3].DATAIN
+x[4] => z[4].DATAIN
+x[5] => z[5].DATAIN
+z[0] <= x[0].DB_MAX_OUTPUT_PORT_TYPE
+z[1] <= x[1].DB_MAX_OUTPUT_PORT_TYPE
+z[2] <= x[2].DB_MAX_OUTPUT_PORT_TYPE
+z[3] <= x[3].DB_MAX_OUTPUT_PORT_TYPE
+z[4] <= x[4].DB_MAX_OUTPUT_PORT_TYPE
+z[5] <= x[5].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_R_type
+a => a.IN1
+b => b.IN1
+c => c.IN1
+d => d.IN1
+e => e.IN1
+f => f.IN1
+z <= and_gate:and_5.z
+
+
+|control_unit|my_and6:determine_R_type|and_gate:and_1
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_R_type|and_gate:and_2
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_R_type|and_gate:and_3
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_R_type|and_gate:and_4
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_R_type|and_gate:and_5
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_addi
+a => a.IN1
+b => b.IN1
+c => c.IN1
+d => d.IN1
+e => e.IN1
+f => f.IN1
+z <= and_gate:and_5.z
+
+
+|control_unit|my_and6:determine_addi|and_gate:and_1
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_addi|and_gate:and_2
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_addi|and_gate:and_3
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_addi|and_gate:and_4
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_addi|and_gate:and_5
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_lw
+a => a.IN1
+b => b.IN1
+c => c.IN1
+d => d.IN1
+e => e.IN1
+f => f.IN1
+z <= and_gate:and_5.z
+
+
+|control_unit|my_and6:determine_lw|and_gate:and_1
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_lw|and_gate:and_2
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_lw|and_gate:and_3
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_lw|and_gate:and_4
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_lw|and_gate:and_5
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_sw
+a => a.IN1
+b => b.IN1
+c => c.IN1
+d => d.IN1
+e => e.IN1
+f => f.IN1
+z <= and_gate:and_5.z
+
+
+|control_unit|my_and6:determine_sw|and_gate:and_1
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_sw|and_gate:and_2
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_sw|and_gate:and_3
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_sw|and_gate:and_4
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_sw|and_gate:and_5
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_beq
+a => a.IN1
+b => b.IN1
+c => c.IN1
+d => d.IN1
+e => e.IN1
+f => f.IN1
+z <= and_gate:and_5.z
+
+
+|control_unit|my_and6:determine_beq|and_gate:and_1
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_beq|and_gate:and_2
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_beq|and_gate:and_3
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_beq|and_gate:and_4
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_beq|and_gate:and_5
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_bne
+a => a.IN1
+b => b.IN1
+c => c.IN1
+d => d.IN1
+e => e.IN1
+f => f.IN1
+z <= and_gate:and_5.z
+
+
+|control_unit|my_and6:determine_bne|and_gate:and_1
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_bne|and_gate:and_2
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_bne|and_gate:and_3
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_bne|and_gate:and_4
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_bne|and_gate:and_5
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_bgtz
+a => a.IN1
+b => b.IN1
+c => c.IN1
+d => d.IN1
+e => e.IN1
+f => f.IN1
+z <= and_gate:and_5.z
+
+
+|control_unit|my_and6:determine_bgtz|and_gate:and_1
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_bgtz|and_gate:and_2
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_bgtz|and_gate:and_3
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_bgtz|and_gate:and_4
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_and6:determine_bgtz|and_gate:and_5
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_or3:determine_RegWrite
+a => a.IN1
+b => b.IN1
+c => c.IN1
+z <= or_gate:or_2.z
+
+
+|control_unit|my_or3:determine_RegWrite|or_gate:or_1
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_or3:determine_RegWrite|or_gate:or_2
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_or3:determine_alu_b_sel
+a => a.IN1
+b => b.IN1
+c => c.IN1
+z <= or_gate:or_2.z
+
+
+|control_unit|my_or3:determine_alu_b_sel|or_gate:or_1
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_or3:determine_alu_b_sel|or_gate:or_2
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|or_gate:or_gate_1
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|or_gate:or_gate_2
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_or3:determine_branch_en
+a => a.IN1
+b => b.IN1
+c => c.IN1
+z <= or_gate:or_2.z
+
+
+|control_unit|my_or3:determine_branch_en|or_gate:or_1
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|control_unit|my_or3:determine_branch_en|or_gate:or_2
+x => z.IN0
+y => z.IN1
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+

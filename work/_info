@@ -1,0 +1,1540 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP355/lab/lab2abc
+vadder_32
+Z0 !s110 1637226190
+!i10b 1
+!s100 n30JFkmHGO=[;h@gJ<g7Y1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I@f>0?G6_IAPo7=GfoDo1c3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog
+w1636880965
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/adder_32.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/adder_32.v
+!i122 2837
+Z4 L0 1 29
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1637226189.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/adder_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/adder_32.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vALU
+R0
+!i10b 1
+!s100 F3>A_DB5bfZ1Xg?iC`IWB2
+R1
+I:0<e=QWJJB6]^U^gjI^^a2
+R2
+R3
+Z8 w1636762787
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/ALU.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/ALU.v
+!i122 2838
+L0 1 98
+R5
+r1
+!s85 0
+31
+!s108 1637226190.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/ALU.v|
+!i113 1
+R6
+R7
+n@a@l@u
+valu_sll
+!s110 1637220485
+!i10b 1
+!s100 0BfiG`:>lAPP`JdI=NZ4E0
+R1
+Ihh:kQT@4TVZN1EGfmND@Z0
+R2
+R3
+w1637195106
+Z9 8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/extender.v
+Z10 FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/extender.v
+!i122 1689
+L0 39 174
+R5
+r1
+!s85 0
+31
+!s108 1637220485.000000
+Z11 !s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/extender.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/extender.v|
+!i113 1
+R6
+R7
+vALUCU
+!s110 1637226191
+!i10b 1
+!s100 gQ`PcL3oDkP0L<@l47Ka`2
+R1
+I]UUnPQ@AKSglSN3=j>c0Z0
+R2
+R3
+w1637221673
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/ALUCU.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/ALUCU.v
+!i122 2839
+L0 1 285
+R5
+r1
+!s85 0
+31
+Z13 !s108 1637226191.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/ALUCU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/ALUCU.v|
+!i113 1
+R6
+R7
+n@a@l@u@c@u
+vand6
+!s110 1637064187
+!i10b 1
+!s100 AGYz7nKoTeB9O<AK@^[D=2
+R1
+I;OP0jaD_KfN2z9z[i3]OH2
+R2
+R3
+w1636888622
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and6.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and6.v
+!i122 94
+Z14 L0 1 42
+R5
+r1
+!s85 0
+31
+!s108 1637064187.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and6.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and6.v|
+!i113 1
+R6
+R7
+vand_gate
+Z15 !s110 1637226192
+!i10b 1
+!s100 A:Gfn?Y1X;`<e=ko0RiJa2
+R1
+IAb=d?E<Gz:J;J4^1VbRP73
+R2
+R3
+w1636886968
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate.v
+!i122 2840
+Z16 L0 1 9
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate.v|
+!i113 1
+R6
+R7
+vand_gate_1024
+Z17 !s110 1637226225
+!i10b 1
+!s100 ;`V9TjLUdB56RkEGKhhMm1
+R1
+I?ZPLfWbSBN?SgD]hd[GDd0
+R2
+R3
+Z18 w1637218426
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate_1024.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate_1024.v
+!i122 2896
+R14
+R5
+r1
+!s85 0
+31
+Z19 !s108 1637226224.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate_1024.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate_1024.v|
+!i113 1
+R6
+R7
+vand_gate_32
+R15
+!i10b 1
+!s100 ee0TQNgWXK:W]kORm<]S=0
+R1
+I9dBg9]Z^_bZLA3BWJD7zA3
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate_32.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate_32.v
+!i122 2841
+R16
+R5
+r1
+!s85 0
+31
+Z20 !s108 1637226192.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate_32.v|
+!i113 1
+R6
+R7
+vand_gate_n
+Z21 !s110 1637226193
+!i10b 1
+!s100 =A[CIK6K=b5W7cL3PGYb<0
+R1
+IReUP49Ob>[fPnQSXDem671
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate_n.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate_n.v
+!i122 2842
+Z22 L0 1 10
+R5
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate_n.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate_n.v|
+!i113 1
+R6
+R7
+vcontro_unit_tb
+!s110 1637065432
+!i10b 1
+!s100 7zKNG1oI[7BlF7YNI7n8H0
+R1
+I3O5YMngLN_[43:WS^PT842
+R2
+R3
+w1637064853
+8control_unit_tb.v
+Fcontrol_unit_tb.v
+!i122 309
+Z23 L0 1 47
+R5
+r1
+!s85 0
+31
+!s108 1637065432.000000
+!s107 control_unit_tb.v|
+!s90 -reportprogress|300|-work|work|control_unit_tb.v|
+!i113 1
+R6
+R7
+vcontro_unit_tbreg
+!s110 1637063625
+!i10b 1
+!s100 >]VZYic6XkKVZ;KzM6mOZ2
+R1
+IM;D@n]DZDB]SPK9aALYoC0
+R2
+R3
+w1637063491
+Z24 8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/control_unit_tb.v
+Z25 FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/control_unit_tb.v
+!i122 8
+R23
+R5
+r1
+!s85 0
+31
+!s108 1637063625.000000
+Z26 !s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/control_unit_tb.v|
+Z27 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/control_unit_tb.v|
+!i113 1
+R6
+R7
+vcontrol_unit
+R21
+!i10b 1
+!s100 ?gLW=XCW`=BF9cPFcc4^c2
+R1
+I3@NE7;589F0@KO0HHD`Og0
+R2
+R3
+w1637194403
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/control_unit.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/control_unit.v
+!i122 2843
+L0 1 154
+R5
+r1
+!s85 0
+31
+!s108 1637226193.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/control_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/control_unit.v|
+!i113 1
+R6
+R7
+vcontrol_unit_tb
+Z28 !s110 1637226194
+!i10b 1
+!s100 lbY>SQMS[SD>l[JX2^1272
+R1
+ITi0gATkAK=>G4_`z=DjCR1
+R2
+R3
+w1637065482
+R24
+R25
+!i122 2844
+R23
+R5
+r1
+!s85 0
+31
+Z29 !s108 1637226194.000000
+R26
+R27
+!i113 1
+R6
+R7
+vdec_n
+R28
+!i10b 1
+!s100 AIK2RcQKMn0MI@8HFX9jD2
+R1
+I3;2<fX488C7I3HJM5o<VJ0
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/dec_n.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/dec_n.v
+!i122 2845
+Z30 L0 1 15
+R5
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/dec_n.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/dec_n.v|
+!i113 1
+R6
+R7
+vdemux
+R17
+!i10b 1
+!s100 S13^eD]<ZERB5nGXXlaj@0
+R1
+IMD4Jc5<K[z:aA15Loz9d>2
+R2
+R3
+R18
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/demux.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/demux.v
+!i122 2897
+R16
+R5
+r1
+!s85 0
+31
+!s108 1637226225.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/demux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/demux.v|
+!i113 1
+R6
+R7
+vdff
+Z31 !s110 1637226224
+!i10b 1
+!s100 oN;Cn`2IQfMCS6a[nNm@l1
+R1
+IBf@oRW6LC6EfS<90]Ka8a2
+R2
+R3
+Z32 w1636762801
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/lib/dff.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/lib/dff.v
+!i122 2894
+L0 1 11
+R5
+r1
+!s85 0
+31
+Z33 !s108 1637226223.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/lib/dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/lib/dff.v|
+!i113 1
+R6
+R7
+vdff_32
+!s110 1637226223
+!i10b 1
+!s100 F_eoO7U^0C;7CzM^XGTEj1
+R1
+IVX@gYVLH1zkQFnEh`^kf`0
+R2
+R3
+w1637209675
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/dff_32.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/dff_32.v
+!i122 2893
+Z34 L0 1 22
+R5
+r1
+!s85 0
+31
+R33
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/dff_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/dff_32.v|
+!i113 1
+R6
+R7
+vdffr_a
+R31
+!i10b 1
+!s100 mTHc11zXKWC`IO5315:@z3
+R1
+Ig4hDlCnQ2O78H>]l^T`lT1
+R2
+R3
+R32
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/lib/dffr_a.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/lib/dffr_a.v
+!i122 2895
+L0 1 17
+R5
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/lib/dffr_a.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/lib/dffr_a.v|
+!i113 1
+R6
+R7
+vextender
+!s110 1637226195
+!i10b 1
+!s100 kd7OK1:VZbL9dMAO?E^QN1
+R1
+IB?mCj2kkUa2TAK3QCjDO=1
+R2
+R3
+w1637221295
+R9
+R10
+!i122 2846
+L0 39 13
+R5
+r1
+!s85 0
+31
+Z35 !s108 1637226195.000000
+R11
+R12
+!i113 1
+R6
+R7
+vFull_adder
+Z36 !s110 1637226196
+!i10b 1
+!s100 Z@n7DAGEe`Scf_nEaVG5I3
+R1
+Il1?JRI6V?I14N5lJZhe[L2
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/Full_adder.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/Full_adder.v
+!i122 2847
+Z37 L0 1 20
+R5
+r1
+!s85 0
+31
+R35
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/Full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/Full_adder.v|
+!i113 1
+R6
+R7
+n@full_adder
+vfull_adder_1bit
+R36
+!i10b 1
+!s100 Fj?>;lT4nXDJedTL[Z9;e0
+R1
+IG;9E:56QaoK8Le?i;e@lZ2
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/full_adder_1bit.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/full_adder_1bit.v
+!i122 2848
+L0 1 19
+R5
+r1
+!s85 0
+31
+Z38 !s108 1637226196.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/full_adder_1bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/full_adder_1bit.v|
+!i113 1
+R6
+R7
+vfull_adder_32bit
+Z39 !s110 1637226197
+!i10b 1
+!s100 o@eLAR9U_K:7IUM1@F0al0
+R1
+IU;6YQmYAe`@Q0WGKY7ZT40
+R2
+R3
+w1636881371
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/full_adder_32bit.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/full_adder_32bit.v
+!i122 2849
+L0 1 31
+R5
+r1
+!s85 0
+31
+R38
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/full_adder_32bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/full_adder_32bit.v|
+!i113 1
+R6
+R7
+vIF
+R39
+!i10b 1
+!s100 mo0M1H4lDV3DSPR@@54n53
+R1
+I2205LZ5ga_M^IzzgIEHZG0
+R2
+R3
+w1637212551
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/IF.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/IF.v
+!i122 2850
+L0 1 32
+R5
+r1
+!s85 0
+31
+Z40 !s108 1637226197.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/IF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/IF.v|
+!i113 1
+R6
+R7
+n@i@f
+vmux
+Z41 !s110 1637226198
+!i10b 1
+!s100 21k@XG_iTCA4TJ;Ah;Z3P1
+R1
+Ig2TUKW75Yn=CWfOQ70;AR3
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux.v
+!i122 2851
+R30
+R5
+r1
+!s85 0
+31
+R40
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux.v|
+!i113 1
+R6
+R7
+vmux8_1_1bit
+!s110 1637226200
+!i10b 1
+!s100 hCieK9zHh3D73TeoVl5Xc2
+R1
+ICA<ASJjeXdf]m?E;EdIiK1
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux8_1_1bit.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux8_1_1bit.v
+!i122 2855
+Z42 L0 1 36
+R5
+r1
+!s85 0
+31
+Z43 !s108 1637226200.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux8_1_1bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux8_1_1bit.v|
+!i113 1
+R6
+R7
+vmux8_1_32bit
+Z44 !s110 1637226201
+!i10b 1
+!s100 eNNXHSA@6:4_jMhVh;z0i1
+R1
+IgHCQURbBU<G<;kH:@]?GE0
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux8_1_32bit.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux8_1_32bit.v
+!i122 2856
+R42
+R5
+r1
+!s85 0
+31
+R43
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux8_1_32bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux8_1_32bit.v|
+!i113 1
+R6
+R7
+vmux_32
+R41
+!i10b 1
+!s100 o[ZzD0lKF3fI5ILal9QCL0
+R1
+IULAGlb<OCOzhBCjGhEWQ83
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux_32.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux_32.v
+!i122 2852
+R30
+R5
+r1
+!s85 0
+31
+Z45 !s108 1637226198.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux_32.v|
+!i113 1
+R6
+R7
+vmux_32to1
+Z46 !s110 1637226199
+!i10b 1
+!s100 K>aijRX?P]`hBE89i;Mmb3
+R1
+IGXBNd1^5F:_0l<?Wk9an;0
+R2
+R3
+w1636881232
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux_32to1.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux_32to1.v
+!i122 2853
+L0 1 57
+R5
+r1
+!s85 0
+31
+R45
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux_32to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux_32to1.v|
+!i113 1
+R6
+R7
+vmux_n
+R46
+!i10b 1
+!s100 INj?1Nn4]?YeQ<:mJKD;i2
+R1
+IZQHn?;]X>YC[CJ]e282KC1
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux_n.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux_n.v
+!i122 2854
+R30
+R5
+r1
+!s85 0
+31
+!s108 1637226199.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux_n.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux_n.v|
+!i113 1
+R6
+R7
+vmy_and6
+R44
+!i10b 1
+!s100 nh2`YaATc`X^6Pm86b^;_2
+R1
+IM`mU7V>?zTc`=_MO4MB403
+R2
+R3
+w1637064553
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/my_and6.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/my_and6.v
+!i122 2857
+R14
+R5
+r1
+!s85 0
+31
+Z47 !s108 1637226201.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/my_and6.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/my_and6.v|
+!i113 1
+R6
+R7
+vmy_or3
+Z48 !s110 1637226202
+!i10b 1
+!s100 @HzTC6FUC5Qnnok3ik2]42
+R1
+IWR9cAP4lH8nPdU>JGa=gM3
+R2
+R3
+w1637064620
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/my_or3.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/my_or3.v
+!i122 2858
+R34
+R5
+r1
+!s85 0
+31
+R47
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/my_or3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/my_or3.v|
+!i113 1
+R6
+R7
+vnand_gate
+R48
+!i10b 1
+!s100 52IaC]GL@_Ba34zh6c@=K0
+R1
+I1XUI<4lC693X?FL]>gh_`3
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nand_gate.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nand_gate.v
+!i122 2859
+R16
+R5
+r1
+!s85 0
+31
+Z49 !s108 1637226202.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nand_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nand_gate.v|
+!i113 1
+R6
+R7
+vnand_gate_32
+Z50 !s110 1637226203
+!i10b 1
+!s100 zajQG>`?J;fan7z`PW=ZW2
+R1
+Ij7M8gFb2mRN4FEk?nb0P>1
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nand_gate_32.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nand_gate_32.v
+!i122 2860
+R16
+R5
+r1
+!s85 0
+31
+R49
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nand_gate_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nand_gate_32.v|
+!i113 1
+R6
+R7
+vnand_gate_n
+R50
+!i10b 1
+!s100 ZORiQj25BbR4OoA^KgEgJ3
+R1
+ID`LaZa>jD_1Pic@nP[N=H3
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nand_gate_n.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nand_gate_n.v
+!i122 2861
+R22
+R5
+r1
+!s85 0
+31
+Z51 !s108 1637226203.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nand_gate_n.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nand_gate_n.v|
+!i113 1
+R6
+R7
+vnor_32bit
+!s110 1637226204
+!i10b 1
+!s100 Cm^QH?BhD`cY1O;0MfHKI3
+R1
+IW0mVf3Y4cbfRG[aiAVIIf0
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_32bit.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_32bit.v
+!i122 2862
+R22
+R5
+r1
+!s85 0
+31
+R51
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_32bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_32bit.v|
+!i113 1
+R6
+R7
+vnor_gate
+Z52 !s110 1637226205
+!i10b 1
+!s100 4Rc@LPNOniC6UaQLGmR;d0
+R1
+I]6AQk6_oN8`ND6E9F^V1i2
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_gate.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_gate.v
+!i122 2863
+R16
+R5
+r1
+!s85 0
+31
+!s108 1637226204.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_gate.v|
+!i113 1
+R6
+R7
+vnor_gate_32
+R52
+!i10b 1
+!s100 0[6^<7U[K14Qk5k86Yc]J1
+R1
+I0GPE0[RhTD2>=>JSYzgBD1
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_gate_32.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_gate_32.v
+!i122 2864
+Z53 L0 1 8
+R5
+r1
+!s85 0
+31
+Z54 !s108 1637226205.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_gate_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_gate_32.v|
+!i113 1
+R6
+R7
+vnor_gate_n
+Z55 !s110 1637226206
+!i10b 1
+!s100 dzNlj^M6G[ElPOh7iGDV@0
+R1
+IdS`0=8i^gkgilI;><KZF61
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_gate_n.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_gate_n.v
+!i122 2865
+R22
+R5
+r1
+!s85 0
+31
+R54
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_gate_n.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_gate_n.v|
+!i113 1
+R6
+R7
+vnot_gate
+R55
+!i10b 1
+!s100 N?:zlaOliSHWaWcIm@F`k2
+R1
+IW60K[V7F>^FeUf94ld9270
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/not_gate.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/not_gate.v
+!i122 2866
+R53
+R5
+r1
+!s85 0
+31
+Z56 !s108 1637226206.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/not_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/not_gate.v|
+!i113 1
+R6
+R7
+vnot_gate_32
+Z57 !s110 1637226207
+!i10b 1
+!s100 =23aHAVT`cn74Ghb]HRNG2
+R1
+I1Kg]G?TMhSb=ED6GG?>]k1
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/not_gate_32.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/not_gate_32.v
+!i122 2867
+R53
+R5
+r1
+!s85 0
+31
+R56
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/not_gate_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/not_gate_32.v|
+!i113 1
+R6
+R7
+vnot_gate_n
+R57
+!i10b 1
+!s100 hAO0<`XAobajQH`f_Pk=U2
+R1
+IY7<>b=zYS5GX16UfKni3z2
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/not_gate_n.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/not_gate_n.v
+!i122 2868
+R16
+R5
+r1
+!s85 0
+31
+Z58 !s108 1637226207.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/not_gate_n.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/not_gate_n.v|
+!i113 1
+R6
+R7
+vor3
+!s110 1637064192
+!i10b 1
+!s100 N_F4_LDMYcKFJIDe8@0?G1
+R1
+IBZIVQH2iP_=LTc:0kjK051
+R2
+R3
+w1636887222
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or3.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or3.v
+!i122 120
+R34
+R5
+r1
+!s85 0
+31
+!s108 1637064192.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or3.v|
+!i113 1
+R6
+R7
+vor_gate
+Z59 !s110 1637226208
+!i10b 1
+!s100 :2FFQJGbWR0dzM=NjDQ0V0
+R1
+Ig4f85NaGh7=nWG42iGNmn3
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or_gate.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or_gate.v
+!i122 2869
+R16
+R5
+r1
+!s85 0
+31
+R58
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or_gate.v|
+!i113 1
+R6
+R7
+vor_gate_32
+R59
+!i10b 1
+!s100 Ug5;6=m@cz46c:gm_G^0V0
+R1
+Il=YzDaSn[2C2k<MACFZGH1
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or_gate_32.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or_gate_32.v
+!i122 2870
+R16
+R5
+r1
+!s85 0
+31
+Z60 !s108 1637226208.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or_gate_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or_gate_32.v|
+!i113 1
+R6
+R7
+vor_gate_n
+!s110 1637226209
+!i10b 1
+!s100 D19D8JC4;Y5EigzVEV_0T1
+R1
+I?=eTVazk:md3aM]RC:m[d0
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or_gate_n.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or_gate_n.v
+!i122 2871
+R22
+R5
+r1
+!s85 0
+31
+R60
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or_gate_n.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or_gate_n.v|
+!i113 1
+R6
+R7
+vPC
+Z61 !s110 1637226210
+!i10b 1
+!s100 21nA4ec4=Rg95UKI5KZZm2
+R1
+I:S]a3cf8gMllEBRl4QW6;0
+R2
+R3
+w1637225341
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/PC.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/PC.v
+!i122 2872
+L0 2 71
+R5
+r1
+!s85 0
+31
+!s108 1637226209.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/PC.v|
+!i113 1
+R6
+R7
+n@p@c
+vregister
+R61
+!i10b 1
+!s100 j;f9=<dLKlc24ala61A_H3
+R1
+I97IlX^L;4K2L:o?f_He[?2
+R2
+R3
+w1637223876
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/register.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/register.v
+!i122 2873
+L0 1 294
+R5
+r1
+!s85 0
+31
+Z62 !s108 1637226210.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/register.v|
+!i113 1
+R6
+R7
+vregister_mux
+Z63 !s110 1637226211
+!i10b 1
+!s100 =HM6`C>5e=cE^[X]@LaZi0
+R1
+IdF`2Q?@Bbh28kRGARHfUL3
+R2
+R3
+w1637225445
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/register_mux.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/register_mux.v
+!i122 2874
+L0 1 164
+R5
+r1
+!s85 0
+31
+R62
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/register_mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/register_mux.v|
+!i113 1
+R6
+R7
+vsel_gate
+R63
+!i10b 1
+!s100 Gza>IYANQ<IIUdO2[S91A2
+R1
+IAbL;hJR::mOCe`KK_@FSM2
+R2
+R3
+w1636940312
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/sel_gate.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/sel_gate.v
+!i122 2875
+L0 23 18
+R5
+r1
+!s85 0
+31
+Z64 !s108 1637226211.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/sel_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/sel_gate.v|
+!i113 1
+R6
+R7
+vsingle_cycle_CPU
+Z65 !s110 1637226212
+!i10b 1
+!s100 N>6HWW0ORNl4G[XNRH?W:1
+R1
+I6Q`JOM:]=@2oUJ2?Z<9mN0
+R2
+R3
+w1637220041
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/single_cycle_CPU.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/single_cycle_CPU.v
+!i122 2876
+L0 1 83
+R5
+r1
+!s85 0
+31
+R64
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/single_cycle_CPU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/single_cycle_CPU.v|
+!i113 1
+R6
+R7
+nsingle_cycle_@c@p@u
+vsingle_cycle_CPU_tb
+R65
+!i10b 1
+!s100 Ugg<iO26;m@OT[nkk[lN00
+R1
+IngkJj>N498@i46R?YgcIP3
+R2
+R3
+w1637224617
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/single_cycle_CPU_tb.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/single_cycle_CPU_tb.v
+!i122 2877
+L0 3 39
+R5
+r1
+!s85 0
+31
+Z66 !s108 1637226212.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/single_cycle_CPU_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/single_cycle_CPU_tb.v|
+!i113 1
+R6
+R7
+nsingle_cycle_@c@p@u_tb
+vsll_32bit
+Z67 !s110 1637226213
+!i10b 1
+!s100 jPc8EMmJX99oJcjmECm6b3
+R1
+IJc9GCPdZ0>T?li<RjdTgo3
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/sll_32bit.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/sll_32bit.v
+!i122 2878
+L0 1 40
+R5
+r1
+!s85 0
+31
+R66
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/sll_32bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/sll_32bit.v|
+!i113 1
+R6
+R7
+vSLT
+R67
+!i10b 1
+!s100 Z`in@:VSXl`<JObbB2MVM3
+R1
+IP`7442jV]iNbMZiG4bz`W1
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/SLT.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/SLT.v
+!i122 2879
+R37
+R5
+r1
+!s85 0
+31
+!s108 1637226213.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/SLT.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/SLT.v|
+!i113 1
+R6
+R7
+n@s@l@t
+vSLT_signed
+!s110 1637226214
+!i10b 1
+!s100 R[^9A=Xdk_3YR?gG:I8lB1
+R1
+I91C0S8^@@S^Af3?;kjh2I2
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/SLT_signed.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/SLT_signed.v
+!i122 2880
+L0 1 28
+R5
+r1
+!s85 0
+31
+Z68 !s108 1637226214.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/SLT_signed.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/SLT_signed.v|
+!i113 1
+R6
+R7
+n@s@l@t_signed
+vsram
+Z69 !s110 1637226222
+!i10b 1
+!s100 >0Hh=W1gg[3jU<Li53gn:0
+R1
+I0F2YR52LdW7o3K@[1Vk?;3
+R2
+R3
+w1636762800
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/lib/sram.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/lib/sram.v
+!i122 2892
+L0 1 194
+R5
+r1
+!s85 0
+31
+!s108 1637226222.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/lib/sram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/lib/sram.v|
+!i113 1
+R6
+R7
+vSUB_32bit
+Z70 !s110 1637226215
+!i10b 1
+!s100 zBffV7m906=mX?OoH?>DG1
+R1
+I03OdP=::;QNOSRRC2`COb3
+R2
+R3
+w1636881464
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/SUB_32bit.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/SUB_32bit.v
+!i122 2881
+R4
+R5
+r1
+!s85 0
+31
+R68
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/SUB_32bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/SUB_32bit.v|
+!i113 1
+R6
+R7
+n@s@u@b_32bit
+vtb_register
+R70
+!i10b 1
+!s100 AQP:8LhRhJfCAB;S:O[KE1
+R1
+I5eg;`YiGUmKF[Nj818LX:2
+R2
+R3
+w1636946380
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/tb_register.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/tb_register.v
+!i122 2882
+L0 1 73
+R5
+r1
+!s85 0
+31
+Z71 !s108 1637226215.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/tb_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/tb_register.v|
+!i113 1
+R6
+R7
+vtb_top_register
+!s110 1637226216
+!i10b 1
+!s100 ];e>K6BZFjH87F<]E:A]S3
+R1
+IlG?ajK05>iWmgcOH8ihM=3
+R2
+R3
+w1636911614
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/tb_top_register.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/tb_top_register.v
+!i122 2883
+L0 1 88
+R5
+r1
+!s85 0
+31
+R71
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/tb_top_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/tb_top_register.v|
+!i113 1
+R6
+R7
+vtest_IF
+Z72 !s110 1637226217
+!i10b 1
+!s100 3Nc7gIb<G=Vkic_Vb3?9z3
+R1
+IA[ZM]zBCl_dX>;Zz7XAIf1
+R2
+R3
+w1637206283
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/test_IF.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/test_IF.v
+!i122 2884
+L0 1 30
+R5
+r1
+!s85 0
+31
+!s108 1637226216.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/test_IF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/test_IF.v|
+!i113 1
+R6
+R7
+ntest_@i@f
+vtop_register
+R72
+!i10b 1
+!s100 0M=faPz]WT?F]?=08N`zM0
+R1
+I4iFlZQRKD7U]TdY<DC^zY3
+R2
+R3
+w1637226182
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/top_register.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/top_register.v
+!i122 2885
+L0 1 70
+R5
+r1
+!s85 0
+31
+Z73 !s108 1637226217.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/top_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/top_register.v|
+!i113 1
+R6
+R7
+vxnor_gate
+!s110 1637226218
+!i10b 1
+!s100 hEQckoj_5_Y0QRnG2806F3
+R1
+IgKO<goM=^6E=B6VWAj[8M1
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xnor_gate.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xnor_gate.v
+!i122 2886
+R16
+R5
+r1
+!s85 0
+31
+R73
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xnor_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xnor_gate.v|
+!i113 1
+R6
+R7
+vxnor_gate_32
+Z74 !s110 1637226219
+!i10b 1
+!s100 6[oW`g1z>H3leM^iE3Lgg0
+R1
+II?4S_Ym0:4;;VNjO[=VQR2
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xnor_gate_32.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xnor_gate_32.v
+!i122 2887
+R16
+R5
+r1
+!s85 0
+31
+!s108 1637226218.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xnor_gate_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xnor_gate_32.v|
+!i113 1
+R6
+R7
+vxnor_gate_n
+R74
+!i10b 1
+!s100 c]]]DSDc2@zc85W`SeWMc0
+R1
+I7R?R:G:kj;@L2g_hkKhW03
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xnor_gate_n.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xnor_gate_n.v
+!i122 2888
+R22
+R5
+r1
+!s85 0
+31
+!s108 1637226219.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xnor_gate_n.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xnor_gate_n.v|
+!i113 1
+R6
+R7
+vxor_gate
+!s110 1637226220
+!i10b 1
+!s100 _oJ^G;8OzP];]WmlK<MWh0
+R1
+I;oNCNDT<Pa?^P=:7OYHlm3
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xor_gate.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xor_gate.v
+!i122 2889
+R16
+R5
+r1
+!s85 0
+31
+Z75 !s108 1637226220.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xor_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xor_gate.v|
+!i113 1
+R6
+R7
+vxor_gate_32
+!s110 1637226221
+!i10b 1
+!s100 9nnNgl2:6?<D[1678hlSD1
+R1
+ICRehjiNICjQnSQ81KDk5K0
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xor_gate_32.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xor_gate_32.v
+!i122 2890
+R16
+R5
+r1
+!s85 0
+31
+R75
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xor_gate_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xor_gate_32.v|
+!i113 1
+R6
+R7
+vxor_gate_n
+R69
+!i10b 1
+!s100 ^VjCgV;zfVYhB2@SS9GCL3
+R1
+IBR6o`_ARa@<jbH;ZkK<m32
+R2
+R3
+R8
+8C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xor_gate_n.v
+FC:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xor_gate_n.v
+!i122 2891
+R22
+R5
+r1
+!s85 0
+31
+!s108 1637226221.000000
+!s107 C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xor_gate_n.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xor_gate_n.v|
+!i113 1
+R6
+R7

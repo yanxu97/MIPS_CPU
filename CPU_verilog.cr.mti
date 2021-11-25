@@ -1,0 +1,421 @@
+C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/test_IF.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/test_IF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module test_IF
+
+Top level modules:
+	test_IF
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xor_gate_n.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xor_gate_n.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module xor_gate_n
+
+Top level modules:
+	xor_gate_n
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/sll_32bit.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/sll_32bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sll_32bit
+
+Top level modules:
+	sll_32bit
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xnor_gate.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xnor_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module xnor_gate
+
+Top level modules:
+	xnor_gate
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/lib/sram.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/lib/sram.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sram
+
+Top level modules:
+	sram
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nand_gate.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nand_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nand_gate
+
+Top level modules:
+	nand_gate
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/not_gate.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/not_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module not_gate
+
+Top level modules:
+	not_gate
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/ALU.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/ALUCU.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/ALUCU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALUCU
+
+Top level modules:
+	ALUCU
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/SLT.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/SLT.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SLT
+
+Top level modules:
+	SLT
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/demux.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/demux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module demux
+
+Top level modules:
+	demux
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_gate_n.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_gate_n.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nor_gate_n
+
+Top level modules:
+	nor_gate_n
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/tb_top_register.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/tb_top_register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_top_register
+
+Top level modules:
+	tb_top_register
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or_gate_32.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or_gate_32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module or_gate_32
+
+Top level modules:
+	or_gate_32
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/extender.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/extender.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module extender
+
+Top level modules:
+	extender
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/lib/dffr_a.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/lib/dffr_a.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dffr_a
+
+Top level modules:
+	dffr_a
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_32bit.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_32bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nor_32bit
+
+Top level modules:
+	nor_32bit
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/single_cycle_CPU_tb.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/single_cycle_CPU_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module single_cycle_CPU_tb
+
+Top level modules:
+	single_cycle_CPU_tb
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/full_adder_32bit.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/full_adder_32bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module full_adder_32bit
+
+Top level modules:
+	full_adder_32bit
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux8_1_32bit.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux8_1_32bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux8_1_32bit
+
+Top level modules:
+	mux8_1_32bit
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nand_gate_32.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nand_gate_32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nand_gate_32
+
+Top level modules:
+	nand_gate_32
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/not_gate_32.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/not_gate_32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module not_gate_32
+
+Top level modules:
+	not_gate_32
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/register_mux.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/register_mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register_mux
+
+Top level modules:
+	register_mux
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/my_and6.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/my_and6.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module my_and6
+
+Top level modules:
+	my_and6
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or_gate_n.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or_gate_n.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module or_gate_n
+
+Top level modules:
+	or_gate_n
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_gate.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nor_gate
+
+Top level modules:
+	nor_gate
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/single_cycle_CPU.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/single_cycle_CPU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module single_cycle_CPU
+
+Top level modules:
+	single_cycle_CPU
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nand_gate_n.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nand_gate_n.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nand_gate_n
+
+Top level modules:
+	nand_gate_n
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/not_gate_n.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/not_gate_n.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module not_gate_n
+
+Top level modules:
+	not_gate_n
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate_1024.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate_1024.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module and_gate_1024
+
+Top level modules:
+	and_gate_1024
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/PC.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/PC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xnor_gate_32.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xnor_gate_32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module xnor_gate_32
+
+Top level modules:
+	xnor_gate_32
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/adder_32.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/adder_32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_32
+
+Top level modules:
+	adder_32
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/sel_gate.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/sel_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sel_gate
+
+Top level modules:
+	sel_gate
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/IF.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/IF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module IF
+
+Top level modules:
+	IF
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/full_adder_1bit.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/full_adder_1bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module full_adder_1bit
+
+Top level modules:
+	full_adder_1bit
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux8_1_1bit.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux8_1_1bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux8_1_1bit
+
+Top level modules:
+	mux8_1_1bit
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/tb_register.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/tb_register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_register
+
+Top level modules:
+	tb_register
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/dff_32.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/dff_32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dff_32
+
+Top level modules:
+	dff_32
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/register.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/SUB_32bit.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/SUB_32bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SUB_32bit
+
+Top level modules:
+	SUB_32bit
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/lib/dff.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/lib/dff.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dff
+
+Top level modules:
+	dff
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux_32.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux_32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_32
+
+Top level modules:
+	mux_32
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux_n.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux_n.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_n
+
+Top level modules:
+	mux_n
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xor_gate.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xor_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module xor_gate
+
+Top level modules:
+	xor_gate
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/dec_n.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/dec_n.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dec_n
+
+Top level modules:
+	dec_n
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux_32to1.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/mux_32to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_32to1
+
+Top level modules:
+	mux_32to1
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_gate_32.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/nor_gate_32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nor_gate_32
+
+Top level modules:
+	nor_gate_32
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/control_unit_tb.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/control_unit_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module control_unit_tb
+
+Top level modules:
+	control_unit_tb
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/control_unit.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/control_unit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module control_unit
+
+Top level modules:
+	control_unit
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate_n.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate_n.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module and_gate_n
+
+Top level modules:
+	and_gate_n
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/my_or3.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/my_or3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module my_or3
+
+Top level modules:
+	my_or3
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xnor_gate_n.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xnor_gate_n.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module xnor_gate_n
+
+Top level modules:
+	xnor_gate_n
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/SLT_signed.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/SLT_signed.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SLT_signed
+
+Top level modules:
+	SLT_signed
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xor_gate_32.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/xor_gate_32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module xor_gate_32
+
+Top level modules:
+	xor_gate_32
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate_32.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate_32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module and_gate_32
+
+Top level modules:
+	and_gate_32
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or_gate.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/or_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module or_gate
+
+Top level modules:
+	or_gate
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/Full_adder.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/Full_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Full_adder
+
+Top level modules:
+	Full_adder
+
+} {} {}} C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate.v {1 {vlog -work work -stats=none C:/Users/yxu19/Desktop/NU_master/2021FALL/COMP361/assignments/ce361_CPU_Verilog/and_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module and_gate
+
+Top level modules:
+	and_gate
+
+} {} {}}

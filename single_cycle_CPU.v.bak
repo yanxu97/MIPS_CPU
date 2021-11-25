@@ -1,0 +1,88 @@
+module single_cycle_CPU (parameter mem_file = "../data/bills_branch.dat";) (
+           input clk
+       );
+
+wire [31:0] instruction;
+wire control;
+wire [31:0] data_out;
+wire [2:0] ALUCtr;
+wire RegWrite;
+wire [31:0] data_memory_addr, data_memory_data;
+wire alu_b_sel, data_in_sel;
+wire [2:0] alu_op;
+wire branch_en;
+wire alu_zero_out;
+wire ExtOp;
+wire RegDst;
+wire MemWrite;
+
+// //LCX
+// IF IF0(
+//        .clk                        (clk),
+//        .control                    (control),
+//        //    .branch_offset              (branch_offset),
+//        .instruction                (instruction)
+//    );
+
+// defparam IF0.mem_file = mem_file;
+
+// and_gate and_0 (
+//              .x(branch_en),
+//              .y(alu_zero_out),
+//              .z(control)
+//          );
+
+// //LJX
+// top_register top_register0(
+//                  .clk(clk),
+//                  .instruction(instruction),
+//                  //  .Ra(),
+//                  //  .Rb(),
+//                  //  .Rd(),
+//                  //  .immediate_oprand(),
+//                  .data_mem_write_back(data_out), //the output of data mem, as the input of register
+//                  .alu_ctrl(ALUCtr),
+//                  //  .shamt(),
+//                  .RegWrite(RegWrite),
+//                  //  .data_memory_addr(data_memory_addr),
+//                  //  .data_memory_data(data_memory_data), //the input of the data memory,as the output of register
+//                  .mux_alu_b_sel(alu_b_sel),
+//                  .mux_data_in_sel(data_in_sel),
+//                  .ExtOp(ExtOp),
+//                  .RegDst(RegDst),
+//                  .alu_out(data_memory_addr),
+//                  .alu_zero_out(alu_zero_out),
+//                  .Rb_out(data_memory_data)
+//              );
+
+// //XY
+// control_unit control_unit0(
+//                  .opcode(instruction[31:26]),
+//                  .RegWrite(RegWrite),
+//                  .alu_b_sel(alu_b_sel),
+//                  .data_in_sel(data_in_sel),
+//                  .alu_op(alu_op),
+//                  .branch_en(branch_en),
+//                  .MemWrite(MemWrite),
+//                  .RegDst(RegDst),
+//                  .ExtOp(ExtOp)
+//              );
+
+// //alucu
+// ALUCU ALUCU0(
+//           .ALUOp(alu_op),
+//           .func(instruction[5:0]),
+//           .ALUCtr(ALUCtr)
+//       );
+
+// //mem
+// sram #(.mem_file(mem_file)) data_mem (
+//          .cs(1'b1),
+//          .oe(1'b1),
+//          .we(MemWrite),
+//          .addr(data_memory_addr),
+//          .din(data_memory_data),
+//          .dout(data_out)
+//      );
+
+endmodule

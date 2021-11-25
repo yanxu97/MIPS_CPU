@@ -1,0 +1,69 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "RegWrite",
+					"strict" : false
+				},
+				{
+					"name" : "alu_b_sel",
+					"strict" : false
+				},
+				{
+					"name" : "data_in_sel",
+					"strict" : false
+				},
+				{
+					"name" : "alu_op[0]",
+					"strict" : false
+				},
+				{
+					"name" : "alu_op[1]",
+					"strict" : false
+				},
+				{
+					"name" : "alu_op[2]",
+					"strict" : false
+				},
+				{
+					"name" : "branch_en",
+					"strict" : false
+				},
+				{
+					"name" : "MemWrite",
+					"strict" : false
+				},
+				{
+					"name" : "RegDst",
+					"strict" : false
+				},
+				{
+					"name" : "opcode[3]",
+					"strict" : false
+				},
+				{
+					"name" : "opcode[0]",
+					"strict" : false
+				},
+				{
+					"name" : "opcode[1]",
+					"strict" : false
+				},
+				{
+					"name" : "opcode[5]",
+					"strict" : false
+				},
+				{
+					"name" : "opcode[2]",
+					"strict" : false
+				},
+				{
+					"name" : "opcode[4]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
